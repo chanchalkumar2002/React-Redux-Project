@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Redux-Project/static/css/main.052145cb.css",
+    "main.js": "/React-Redux-Project/static/js/main.06ddbaa7.js",
+    "static/media/ser.ttf": "/React-Redux-Project/static/media/ser.778b559c08175ea1bf0d.ttf",
+    "index.html": "/React-Redux-Project/index.html",
+    "main.052145cb.css.map": "/React-Redux-Project/static/css/main.052145cb.css.map",
+    "main.06ddbaa7.js.map": "/React-Redux-Project/static/js/main.06ddbaa7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.052145cb.css",
+    "static/js/main.06ddbaa7.js"
+  ]
+}
